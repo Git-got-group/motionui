@@ -1,7 +1,6 @@
 # motion
 
-A new Flutter project.
-
+This project a motion based ui demo using custom painter and tween animation in flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
