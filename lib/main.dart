@@ -107,7 +107,7 @@ class MyApp extends StatelessWidget {
       ],
     );
   }
-
+// text
   Widget _getRegisterForm() {
     return Column(
       mainAxisAlignment: MainAxisAlignment.start,
