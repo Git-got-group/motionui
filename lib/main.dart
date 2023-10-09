@@ -6,7 +6,7 @@ void main() {
   runApp(MaterialApp(home: MyApp()));
 }
 class MyApp extends StatelessWidget {
-  // This widget is the root of app
+  // This widget is the root of the app
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
